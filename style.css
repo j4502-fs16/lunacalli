@@ -24,11 +24,14 @@ body{
 
 #nav li {
   list-style-type: none;
-  float: none;
+  float: left;
   margin: 0;
+  padding: 0;
+  width: 20%;
 }
 
 #nav a:link, a:visited {
+  display: block;
   color: #666666;
   background-color: #81c7eb;
   font-weight: bold;
