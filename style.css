@@ -1,10 +1,10 @@
 p{
-  font-family:Georgia, "Times New Roman", serif;
+  font-family:'Lato', sans-serif;
   color:#666666
 }
 
 h1{
-  font-family:Georgia, "Times New Roman", serif;
+  font-family:'BioRhyme', serif;
   color:#666666
 }
 
@@ -16,11 +16,10 @@ p a{
   display: block;
   color: #666666;
   background-color: #81c7eb;
-  font-weight: bold;
   text-align: center;
   text-decoration: none;
   padding: 4px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:'Lato', sans-serif;
 }
 
 #container{
@@ -49,7 +48,7 @@ p a{
   text-align: center;
   text-decoration: none;
   padding: 4px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:'Lato', sans-serif;
 }
 
 #nav a:hover, a:active {
