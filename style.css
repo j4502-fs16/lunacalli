@@ -93,7 +93,7 @@ img{
     flex-flow:row;
   }
 
-  header{
+  head{
   flex:1 auto;
   justify-content:flex-start;
 }
